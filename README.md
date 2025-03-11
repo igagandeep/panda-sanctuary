@@ -1,0 +1,1 @@
+This is my first assignment project from Juno College's bootcamp, built using HTML and CSS. It focuses purely on design without any complex functionality. The goal was to practice structuring web pages and styling them using CSS. This project helped me strengthen my foundational skills in web development and responsive design.
